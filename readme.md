@@ -82,7 +82,7 @@ The design pattern considered the separation between different layers,
 ### The tools required are: 
 -  JAVA JDK 11 
 -  Spring Tool Suite 4 [STS] Spring Tool Suite 4 download from https://spring.io/tools
--  POSTMAN Chrome application for client test of rest service in server side download from https://go.pstmn.io/ 
+-  POSTMAN Chrome application for client test of rest service in server side download from https://postman.com 
 -  For list of dependencies see Pom.xml in the main project directory.
 
 ### Running the application:
