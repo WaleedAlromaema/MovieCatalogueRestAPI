@@ -39,7 +39,7 @@ movie catalogue is Microservice REST API Application developed by Spring boot Ja
 the Database consists of three main Entity Tables [Movie,Actor,Director] and two Relation Mapping Tables [Actor_Participate_Movie , Director_Participate_Movie] That implements the Many-to-Many Relations.
 the design as following :
 
-![alt ER_movie_cataloge](ER_movie_cataloge.jpg)   
+![alt ER_movie_cataloge](moviecatalog/ER_movie_cataloge.jpg)   
 
 ##### - database configuration
 
@@ -69,14 +69,14 @@ The design pattern considered the separation between different layers,
  
  Below are the design that separated the concern:
  
-![alt layred_movies_cataloge](layred_movies_cataloge.jpg)   
+![alt layred_movies_cataloge](moviecatalog/layred_movies_cataloge.jpg)   
  
        
 ### C-Rest API Interface
  
  below are the set of REST Services and the associated URI.
  
-![alt rest_service](rest_service_api.png)   
+![alt rest_service](moviecatalog/rest_service_api.png)   
 
 ## 3- Setting and Running Application
 ### The tools required are: 
@@ -106,7 +106,7 @@ as in the rest api listed above:
 
 ###here is an example of GET Movies:
 
-![alt getMovies](getMovies.png)
+![alt getMovies](moviecatalog/getMovies.png)
 
 her is the complete list retrieved:
 
