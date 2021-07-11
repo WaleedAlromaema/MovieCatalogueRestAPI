@@ -260,7 +260,7 @@ her is the complete list retrieved:
 
 ### Example of insert movie :
 
-![alt postMovie](moviecatalogue/postMovie.png)
+![alt postMovie](moviecatalog/postMovie.png)
 
 The same applied for The rest of API List of Actors and Directors.
 
